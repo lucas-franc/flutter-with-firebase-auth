@@ -1,6 +1,6 @@
 # Flutter Firebase Authentication Sample
 
-![Flutter version](https://img.shields.io/badge/Flutter-v2.2.3-blue?logo=flutter)
+![Flutter version](https://img.shields.io/badge/Flutter-v3-blue?logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-v9.0.0-orange?logo=firebase)
 
 ## Description
